@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **hofman-tan/hofman-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- img src="https://github.githubassets.com/images/mona-whisper.gif" / -->
+
+<div align="center">
+  <img src="https://media.tenor.com/yTyy0Scj6cYAAAAi/eevee-driving.gif" width="300px" height="300px" />
+  <p>Code recklessly</p>
+</div>
